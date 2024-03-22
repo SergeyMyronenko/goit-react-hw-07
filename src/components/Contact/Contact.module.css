@@ -20,6 +20,13 @@
   gap: 8px;
   text-align: start;
 }
+.paragraphName {
+  width: 160px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 .button {
   padding: 4px 16px;
   border-radius: 8px;
